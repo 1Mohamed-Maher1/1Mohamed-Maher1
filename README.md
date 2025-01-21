@@ -65,7 +65,7 @@ Sunday                   937 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Egypt/Dubai
+🕑︎ Time Zone: Egypt
 
 💬 Programming Languages: 
 TypeScript               42 hrs 18 mins      ███████████████████████░░   92.02 % 
@@ -91,13 +91,3 @@ CSS                      7 repos             ██░░░░░░░░░�
 Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
-
-
-
-
- Last Updated on 07/11/2024 00:29:57 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
